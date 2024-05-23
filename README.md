@@ -1,1 +1,3 @@
-# Apple-vs.-Samsung-Stock-Trends
+# Apple vs.Samsung StockTrends
+Gina Tran
+CSE 163
